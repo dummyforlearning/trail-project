@@ -77,3 +77,18 @@ fieldset{
    margin:40px;
 }
 
+.forgot{
+   margin-top:20px; 
+   display: block;
+   text-decoration: none;
+   margin-left: 180px;
+}
+
+input[type="checkbox"]{
+   margin:10px 2px;
+}
+
+input[type="file"]{
+   color:blue;
+   
+}
